@@ -207,26 +207,26 @@ student:
 <!-- ========================================== -->
 ## 📊 GitHub Analytics
 
-<!-- Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PreranRai&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Preran Rai Trophies" />
-</p>
 
-<!-- Top Languages, GitHub Stats & Streak Stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PreranRai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Preran Rai's GitHub Stats" height="190px" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreranRai&layout=compact&theme=tokyonight&hide_border=true" alt="Preran Rai's Top Languages" height="190px" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/jeff-morrison/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreranRai&theme=tokyonight&hide_border=true" alt="Preran Rai's Streak Stats" height="180px" />
-  </a>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PreranRai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreranRai&theme=github_dark&layout=compact&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=PreranRai&theme=github-dark-blue&hide_border=true" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PreranRai&theme=github-compact&hide_border=true&area=true&area_color=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+<i>// Building AI-powered solutions, one commit at a time 🚀</i>
+
+</div>
+
 
 <!-- Snake animation representation -->
 ### 🐍 Contribution Activity
