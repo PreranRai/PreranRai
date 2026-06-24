@@ -1,32 +1,35 @@
-<svg width="100%" viewBox="0 0 690 210" role="img" xmlns="http://www.w3.org/2000/svg" style=""><defs><mask id="imagine-text-gaps-dsjj4r" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="690" height="210" fill="white"/><rect x="50" y="73" width="370.0625" height="74.4000015258789" fill="black" rx="2"/><rect x="49.20000076293945" y="159.1999969482422" width="404.45001220703125" height="16" fill="black" rx="2"/></mask></defs>
-<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Preran Rai — AI · ML · Research · Open Source</title>
-<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">High visibility GitHub banner for Preran Rai</desc>
+<svg width="680" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- background -->
+  <rect width="680" height="200" fill="#0d1117"/>
 
-<rect width="680" height="200" fill="#0d1117" style="fill:rgb(13, 17, 23);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- top and bottom rules -->
+  <line x1="36" y1="48" x2="644" y2="48" stroke="#ffffff" stroke-width="0.6" opacity="0.3"/>
+  <line x1="36" y1="158" x2="644" y2="158" stroke="#ffffff" stroke-width="0.6" opacity="0.3"/>
 
+  <!-- left accent bar -->
+  <rect x="36" y="48" width="4" height="110" fill="#58a6ff"/>
 
-<line x1="0" y1="50" x2="680" y2="50" stroke="#ffffff" stroke-width="0.4" opacity="0.07" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.07;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<line x1="0" y1="150" x2="680" y2="150" stroke="#ffffff" stroke-width="0.4" opacity="0.07" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.07;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<line x1="0" y1="100" x2="680" y2="100" stroke="#ffffff" stroke-width="0.4" opacity="0.04" mask="url(#imagine-text-gaps-dsjj4r)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.04;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- main name -->
+  <text
+    x="52" y="128"
+    font-family="'Courier New', Courier, monospace"
+    font-size="68"
+    font-weight="700"
+    fill="#ffffff"
+    letter-spacing="-1">PRERAN RAI</text>
 
+  <!-- subtitle tags -->
+  <text
+    x="52" y="178"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11"
+    fill="#8b949e"
+    letter-spacing="2">AI  ·  MACHINE LEARNING  ·  RESEARCH  ·  OPEN SOURCE</text>
 
-<rect x="36" y="50" width="4" height="100" fill="#58a6ff" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- concentric circles top right -->
+  <circle cx="626" cy="80" r="22" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.35"/>
+  <circle cx="626" cy="80" r="13" fill="none" stroke="#58a6ff" stroke-width="0.7" opacity="0.25"/>
+  <circle cx="626" cy="80" r="4"  fill="#58a6ff" opacity="0.5"/>
 
-
-<text x="54" y="127" font-family="'Courier New', monospace" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="-1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Courier New&quot;, monospace;font-size:62px;font-weight:700;text-anchor:start;dominant-baseline:auto">PRERAN RAI</text>
-
-
-<line x1="36" y1="50" x2="644" y2="50" stroke="#ffffff" stroke-width="0.5" opacity="0.25" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-
-<line x1="36" y1="150" x2="644" y2="150" stroke="#ffffff" stroke-width="0.5" opacity="0.25" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-
-<text x="54" y="170" font-family="'Courier New', monospace" font-size="11" fill="#8b949e" letter-spacing="2" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">AI  ·  MACHINE LEARNING  ·  RESEARCH  ·  OPEN SOURCE</text>
-
-
-<circle cx="620" cy="75" r="18" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.3" style="fill:none;stroke:rgb(88, 166, 255);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<circle cx="620" cy="75" r="10" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.2" style="fill:none;stroke:rgb(88, 166, 255);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.2;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<circle cx="620" cy="75" r="3" fill="#58a6ff" opacity="0.4" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 </svg>

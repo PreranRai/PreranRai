@@ -2,7 +2,7 @@
 <!-- HERO SECTION - VISUAL INTRO & BANNER       -->
 <!-- ========================================== -->
 <p align="center">
-  <img src="banner.svg" alt="Preran Rai Banner" width="100%" />
+  <img src="banner.svg" alt="Preran Rai Banner" />
 </p>
 
 <p align="center">
