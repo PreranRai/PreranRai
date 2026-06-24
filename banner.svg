@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="100%" height="100%">
+  <!-- Definitions for pattern / filter if needed -->
+  <defs>
+    <!-- Background Dot Pattern -->
+    <pattern id="dotGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1.5" fill="#f2efe9" fill-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-weight: 300;
+      font-size: 64px;
+      letter-spacing: 14px;
+      fill: #ffffff;
+      text-transform: uppercase;
+    }
+    .subtitle-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 3px;
+      fill: #a8a290;
+    }
+    .dimension-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 400;
+      font-size: 11px;
+      fill: #8a8370;
+      letter-spacing: 1px;
+    }
+    .solid-line {
+      stroke: #f2efe9;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+    }
+    .dim-line {
+      stroke: #f2efe9;
+      stroke-width: 0.8;
+      stroke-opacity: 0.15;
+    }
+    .dim-tick {
+      stroke: #f2efe9;
+      stroke-width: 1;
+      stroke-opacity: 0.3;
+    }
+  </style>
+
+  <!-- Background Layer -->
+  <rect width="850" height="300" fill="#0d1117" />
+  
+  <!-- Dot Grid Pattern -->
+  <rect width="850" height="300" fill="url(#dotGrid)" />
+
+  <!-- Outer dimension bounds / layout markers -->
+  <g id="dimension-lines">
+    <!-- Top Dimension Line -->
+    <line x1="80" y1="50" x2="380" y2="50" class="dim-line" />
+    <line x1="470" y1="50" x2="760" y2="50" class="dim-line" />
+    
+    <!-- Top Ticks -->
+    <line x1="80" y1="45" x2="80" y2="55" class="dim-tick" />
+    <line x1="760" y1="45" x2="760" y2="55" class="dim-tick" />
+    
+    <!-- Dimension Text -->
+    <text x="425" y="53" text-anchor="middle" class="dimension-text">680 px</text>
+
+    <!-- Bottom Guide Line (Faint) -->
+    <line x1="80" y1="250" x2="760" y2="250" class="dim-line" />
+    <line x1="80" y1="245" x2="80" y2="255" class="dim-tick" />
+    <line x1="760" y1="245" x2="760" y2="255" class="dim-tick" />
+
+    <!-- Extra coordinate crosses at corners -->
+    <path d="M 75 245 L 85 245 M 80 240 L 80 250" stroke="#f2efe9" stroke-width="0.5" stroke-opacity="0.2" />
+    <path d="M 195 245 L 205 245 M 200 240 L 200 250" stroke="#f2efe9" stroke-width="0.5" stroke-opacity="0.1" />
+    <path d="M 305 245 L 315 245 M 310 240 L 310 250" stroke="#f2efe9" stroke-width="0.5" stroke-opacity="0.1" />
+  </g>
+
+  <!-- Left vertical accent bar -->
+  <line x1="80" y1="80" x2="80" y2="220" class="solid-line" stroke-opacity="0.3" stroke-width="2" />
+
+  <!-- Main Content Group -->
+  <g transform="translate(105, 0)">
+    <!-- Header Title -->
+    <text x="0" y="165" class="title-text">PRERAN RAI</text>
+    
+    <!-- Subtitle / Tagline -->
+    <text x="5" y="212" class="subtitle-text">AI machine learning research open source</text>
+  </g>
+
+  <!-- Right side diagonal slashes -->
+  <g id="right-slashes" stroke="#f2efe9" stroke-opacity="0.12" stroke-width="1.5" stroke-linecap="round">
+    <line x1="680" y1="220" x2="720" y2="80" />
+    <line x1="700" y1="220" x2="740" y2="80" />
+    <line x1="720" y1="220" x2="760" y2="80" />
+    <line x1="740" y1="220" x2="780" y2="80" />
+  </g>
+
+</svg>
