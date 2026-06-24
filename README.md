@@ -2,13 +2,13 @@
 <!-- HERO SECTION - VISUAL INTRO & BANNER       -->
 <!-- ========================================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PreranRai/PreranRai/main/banner.svg" alt="Preran Rai Banner" width="100%" />
+  <img src="banner.svg" alt="Preran Rai Banner" width="100%" />
 </p>
 
 <p align="center">
   <!-- DenverCoder1's Typing SVG animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=AI+%26+ML+Engineer-in-Training;Computer+Vision+%26+Deep+Learning+Enthusiast;Full+Stack+Developer+%26+Innovator;Building+AI+Solutions+for+Real-World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=AI+%26+ML+Engineer-in-Training;Computer+Vision+%26+Deep+Learning+Enthusiast;Full+Stack+Developer+%26+Innovator;Building+AI+Solutions+for+Real-World+Impact" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ```yaml
 student:
   name: Preran Rai
-  academics: 4th Year Computer Science Engineering
+  academics: 3rd Year Computer Science Engineering
   specialization: Artificial Intelligence & Machine Learning
   institution: Sahyadri College of Engineering & Management, Mangaluru
   interests: [Computer Vision, Deep Learning, Full Stack, Low-Resource NLP, Hackathons]
