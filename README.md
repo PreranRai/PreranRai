@@ -29,7 +29,7 @@
 ```yaml
 student:
   name: Preran Rai
-  academics: 3rd Year Computer Science Engineering
+  academics: 4th Year Computer Science Engineering
   specialization: Artificial Intelligence & Machine Learning
   institution: Sahyadri College of Engineering & Management, Mangaluru
   interests: [Computer Vision, Deep Learning, Full Stack, Low-Resource NLP, Hackathons]
