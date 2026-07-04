@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/Sahyadri_SCEM-SCEM-9b5de5?style=flat-square" alt="Institution SCEM" />
 </p>
 
+<p align="center">
+  <!-- Premium Portfolio Button -->
+  <a href="https://preran-rai.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/preran-rai-92414b293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PreranRai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:preranrai3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 <br />
 
 <!-- ========================================== -->
@@ -29,19 +37,61 @@
 ```yaml
 student:
   name: Preran Rai
-  academics: 4th Year Computer Science Engineering
+  academics: Final Year Computer Science Engineering
   specialization: Artificial Intelligence & Machine Learning
   institution: Sahyadri College of Engineering & Management, Mangaluru
-  interests: [Computer Vision, Deep Learning, Full Stack, Low-Resource NLP, Hackathons]
+  interests: [Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Large Language Models, Agentic AI, AI Automation, Full Stack Development, Research]
   philosophy: "Leveraging state-of-the-art AI to preserve history & optimize the future."
 ```
 
-👋 **Hello and Welcome!** I'm a passionate AI & Machine Learning student and Full Stack Developer dedicated to engineering intelligent, high-impact software systems. My academic journey is centered around deep learning pipelines, computer vision frameworks, and full-stack development to bridge the gap between complex algorithms and elegant user experiences.
+👋 **Hello and Welcome!** I am a Final Year Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Sahyadri College of Engineering & Management. As a Full Stack Developer, Research Enthusiast, and Open Source Contributor, I am deeply passionate about engineering intelligent systems to solve real-world problems.
 
-- 🚀 Currently exploring: **Low-Resource Language Digitization & Agricultural Deep Learning models**
-- 💡 Actively building: **Barepuna** — an AI-powered Tulu Lipi OCR and interactive learning tool
-- 🏆 Passionate about: **Hackathons, Innovation, and Rapid Prototyping**
-- 🤝 Open to: **Research Collaborations, ML Internships, and Open-Source Contributions**
+- 🧠 Core Focus: **Deep Learning pipelines, Computer Vision architectures, and Full Stack application development.**
+- 💡 Core Belief: **Bridging the gap between complex machine learning algorithms and elegant, automated user experiences.**
+
+<br />
+
+<!-- ========================================== -->
+<!-- PORTFOLIO SECTION                          -->
+<!-- ========================================== -->
+## 🌐 Portfolio
+
+My portfolio showcases my complete journey as an AI & ML Engineer. It includes:
+
+• AI Projects  
+• Research Work  
+• Live Applications  
+• Technical Skills  
+• Resume  
+• Certifications  
+• Achievements  
+• Contact Information  
+
+<p align="center">
+  <a href="https://preran-rai.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+This section is designed to encourage visitors to explore my portfolio instead of duplicating its content here.
+
+<br />
+
+<!-- ========================================== -->
+<!-- CURRENT FOCUS SECTION                      -->
+<!-- ========================================== -->
+## 🚀 Current Focus
+
+```yaml
+Current Focus:
+  • Artificial Intelligence & Machine Learning
+  • Deep Learning
+  • Computer Vision
+  • Large Language Models (LLMs)
+  • Agentic AI
+  • AI Automation
+  • Full Stack Development
+  • Research
+  • Open Source
+```
 
 <br />
 
@@ -93,75 +143,21 @@ student:
 <br />
 
 <!-- ========================================== -->
-<!-- FEATURED PROJECTS SECTION                  -->
+<!-- FEATURED WORK SECTION                      -->
 <!-- ========================================== -->
-## 🚀 Featured Projects
+## 💼 Featured Work
 
-<table width="100%">
-  <!-- ROW 1 -->
-  <tr>
-    <!-- Project 1: Barepuna -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>📜 Barepuna</h3>
-        <p><em>AI-Powered Interactive Platform for Learning and Preserving Tulu Lipi</em></p>
-        <p>An innovative solution designed to revive the ancient, low-resource Tulu script using Deep Learning. It integrates custom CNNs for real-time character recognition, stroke sequence interactive tracing, and full-stack learning tutorials.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        </p>
-      </div>
-    </td>
-    <!-- Project 2: AgriSeva -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>🌾 AgriSeva</h3>
-        <p><em>AI-Powered Smart Agriculture Decision Support System</em></p>
-        <p>A comprehensive system for farmers featuring deep-learning-based crop disease diagnosis from images, soil nutrients-to-crop matching classifiers, and a Microsoft Azure-integrated chatbot for real-time queries.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        </p>
-      </div>
-    </td>
-  </tr>
-  
-  <!-- ROW 2 -->
-  <tr>
-    <!-- Project 3: Tulu-Kalpuga -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>🗣️ Tulu-Kalpuga</h3>
-        <p><em>Linguistic Script Converter &amp; Dialect Translator</em></p>
-        <p>A rule-based and neural-network-assisted transliteration engine mapping modern Kannada script to classical Tulu script. Promotes digital reading accessibility of regional language assets.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-          <img src="https://img.shields.io/badge/NLP-Green?style=flat-square" alt="NLP" />
-        </p>
-      </div>
-    </td>
-    <!-- Project 4: Smart DBMS & Custom APIs -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <h3>💾 DBMS Admin Portal</h3>
-        <p><em>Relational Database Systems with Full-Stack Web Dashboard</em></p>
-        <p>A set of high-performance database projects utilizing MySQL &amp; PostgreSQL, featuring rigorous schema normalization (BCNF), transaction safety triggers, and a premium React-based dashboard for secure admin analytics.</p>
-        <p>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+I've built multiple AI, Machine Learning, Deep Learning, and Full Stack applications. Here are some of my major projects:
+
+• **Intelligent Book Learning Platform** 📚  
+• **AgriSeva** 🌾  
+• **Barepuna** 📜  
+• **Tulu-Kalpuga** 🗣️  
+• **DBMS Mini Project** 💾  
+
+Explore detailed case studies, architecture diagrams, source code, documentation, technical write-ups, and live applications directly on my portfolio:
+
+🔗 [preran-rai.vercel.app](https://preran-rai.vercel.app/)
 
 <br />
 
@@ -184,10 +180,10 @@ student:
 <!-- ========================================== -->
 ## 🏆 Achievements & Key Credentials
 
-- **Internship Excellence:** Proud alumnus of the **HackHarbor 3.0** Internship program, building production-grade web solutions and collaborative tools.
-- **NPTEL Certification:** Completed rigorous academic evaluations in core Artificial Intelligence & Machine Learning subjects with excellent marks.
-- **Infosys Springboard:** Successfully completed comprehensive learning paths in Full Stack Development, Data Science, and Python.
-- **Hackathon Contender:** Regularly participating in local & national hackathons, driving innovation from ideation to functioning prototypes.
+• **Internship Excellence:** Proud alumnus of the **HackHarbor 3.0** Internship program, building production-grade web solutions and collaborative tools.  
+• **NPTEL Certification:** Completed rigorous academic evaluations in core Artificial Intelligence & Machine Learning subjects with excellent marks.  
+• **Infosys Springboard:** Successfully completed comprehensive learning paths in Full Stack Development, Data Science, and Python.  
+• **Hackathon Contender:** Regularly participating in local & national hackathons, driving innovation from ideation to functioning prototypes.  
 
 <br />
 
@@ -195,7 +191,6 @@ student:
 <!-- GITHUB STATS & ANALYTICS                   -->
 <!-- ========================================== -->
 ## 📊 GitHub Analytics
-
 
 <div align="center">
 
@@ -216,8 +211,7 @@ student:
 
 </div>
 
-
-
+<br />
 
 <!-- ========================================== -->
 <!-- CONNECT WITH ME                            -->
@@ -225,41 +219,31 @@ student:
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://preran-rai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/preran-rai-92414b293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:preranrai3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/PreranRai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://sahyadri.edu.in/"><img src="https://img.shields.io/badge/Institution-SCEM-9b5de5?style=for-the-badge" alt="Sahyadri College" /></a>
+  <a href="mailto:preranrai3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <br />
 
 <!-- ========================================== -->
-<!-- FUN STUFF & QUOTES                         -->
+<!-- FOOTER                                     -->
 <!-- ========================================== -->
-## 🎨 Fun & Inspiration
+<hr />
 
-<table width="100%">
-  <tr>
-    <!-- Coding Quote -->
-    <td width="50%" valign="top">
-      <p align="center"><strong>💡 Tech Wisdom</strong></p>
-      <p align="center">
-        <em>"Predicting the future isn't magic, it's Artificial Intelligence."</em>
-        <br />
-        <small>— ML Adage</small>
-      </p>
-    </td>
-    <!-- Developer Joke -->
-    <td width="50%" valign="top">
-      <p align="center"><strong>🤖 Dev Humor</strong></p>
-      <p align="center">
-        <em>"There are 10 types of people in the world: those who understand binary, and those who don't."</em>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-00F2FE.svg?style=flat-square" alt="Maintained Yes" />
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-f15bb5.svg?style=flat-square" alt="Made With Markdown" />
-</p>
+⭐ Thanks for visiting my GitHub profile!
+
+I'm always open to collaborating on:
+
+• Artificial Intelligence  
+• Machine Learning  
+• Full Stack Development  
+• Research  
+• Open Source  
+
+Let's build impactful technology together.
+
+</div>
